@@ -20,7 +20,7 @@ Using the sr_hex.csv dataset, please chose two of the following:
 
 Jupyter notebook : predict_weekly_expected_number_of_service_requests
 
-# 4.7.	Classification challenge: Classify a hex as sparsely or densely populated, solely based on the service request data. Provide an explanation as to how you're using the data to perform this classification. Using your classifier, please highlight any unexpected or unusual classifications, and comment on why that might be the case.
+# 4.7.	Classification challenge: Classify a hex as sparsely or densely populated, solely based on the service request data. 
 
 Jupyter notebook : classify_hex_sparsely_densely_populated_classification challenge
 
