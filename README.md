@@ -6,7 +6,7 @@
 # POSITION APPLIED FOR : Data Science
 
 The work contained herein is my effort to respond to the City of Cape Town 's Data Science Challenge.
-It compromised of jupyter notebooks developed for each question.
+It compromiseS of jupyter notebooks developed for each question.
 The following questions have been attempted and their respective jupyter notebooks are attached for your consideration.
 
 # QUESTION 2: Initial Data Transformation (if applying for a Data Engineering and/or Science Position)
